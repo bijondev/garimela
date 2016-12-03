@@ -1,0 +1,306 @@
+/* CSS Document */
+
+div.Top
+{
+	float:left;
+	height:125px;
+	/*margin-left:12px;*/
+	width:960px;
+	margin-left:20px;
+	margin-top:3px;
+	background-color:#FFF;
+	
+}
+div.Head
+{   padding-top:5px;
+	padding-left:17px;
+	float:left;
+	height:35px;
+	width:955px;
+	font-size:24px;
+	font-family:Arial, Helvetica, sans-serif;
+	
+}
+
+div.Topmenu
+{
+	margin-left:15px;
+	float:left;
+	height:50px;
+	width:auto;
+	background-color:#FFF;
+}
+
+div.Button
+{   float:left;
+    margin-top:3px;
+	height:25px;
+	margin-left:0px;
+	margin-right:01px;
+	width:90px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:6px;
+	background-image:url(Image/blockheader.png);
+	color:#000;
+	font-size:13px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+a:hover
+{
+	background-image:url(Image/Button02.png);
+	color:#00FF00;
+}
+a:link
+{
+	text-decoration:none;
+}
+.Button:hover
+{
+background-image:url(Image/Button02.png);
+color:#00FF00;
+}
+/*Button:first-letter
+
+{
+	float:left;
+	font-size:18px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+}*/
+
+.mehedi {
+	color: #F00;
+}
+.edia {
+	color: #0F0;
+}
+.dia {
+	color: #F60;
+}
+
+.other {
+	color: #00F;
+}
+div.date
+{float:right;
+padding-right:5px;
+padding-top:5px;
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:11px;
+}
+div.slogan
+{
+	float:right;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:13px;
+	padding-right:5px;
+	padding-bottom:5px;
+}
+
+div.Banner
+{
+float:left;
+margin-left:25px;
+padding-top:5px;
+height:250px;
+width:760px;
+/*padding-left:140px*/;
+
+}
+
+div.Logo
+{
+	float:left;
+	margin-left:10px;
+	margin-top:25px;
+	height:200px;
+	width:150px;
+	border-style:none;
+}
+
+div#left
+{
+	float:right;
+	padding-left:0px;
+	padding-bottom:0px;
+	height:auto;
+	width:200px;
+	background-image:url(Image/Sideback.png);
+	
+		
+}
+
+div#headbar
+{
+	
+	float:left;
+	margin-top:0px;
+	height:30px;
+	width:210px;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:0px;
+	background-image:url(Image/blockheader.png);
+	background-repeat:no-repeat;
+}
+
+div#ContentMenu
+{
+	
+	float:left;
+	margin-top:0px;
+	margin-bottom:5px;
+	height:30px;
+	width:560px;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:20px;
+	background-image:url(Image/ContentMenu.png);
+	background-repeat:no-repeat;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#FFFFFF;
+}
+
+
+div#Bottombar
+{
+	
+	float:left;
+	margin-top:10px;
+	height:30px;
+	width:200px;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left:0px;
+	background-image:url(Image/blockheader.png);
+	background-repeat:i
+	
+	
+}
+
+div#bar
+{
+	
+	float:left;
+	margin-top:10px;
+	height:30px;
+	width:210px;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:0px;
+	background-image:url(Image/blockheader.png);
+	background-repeat:no-repeat;
+}
+
+div#footerbar
+{
+	
+	float:left;
+	margin-bottom:36px;
+	margin-top:12px;
+	margin-left:30px;
+	height:20px;
+	width:940px;
+	padding-top:10px;
+	padding-left:0px;
+	background-image:url(Image/ContentMenu.png);
+	background-repeat:repeat-x;
+}
+div.Buttonleft
+{   float:left;
+    margin-top:2px;
+	margin-bottom:2px;
+	height:22px;
+	margin-left:20px;
+	width:120px;
+	padding-left:35px;
+	padding-right:5px;
+	padding-top:7px;
+	background-image:url(Image/blockheader.png);
+	color:#000;
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.Buttonleft:hover
+{
+	background-image:url(Image/Button02.png);
+	color:#0000FF;
+}
+
+div.Content
+{
+	float:inherit;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:6px;
+	padding-top:0px;
+	height:auto;
+	width:590px;
+	background-image:url(Image/Mehedia-Back.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-attachment:fixed;
+	}
+div.Right
+{
+	float:left;
+	padding-left:0px;
+	padding-bottom:0px;
+	height:auto;
+	width:200px;
+	background-image:url(Image/Sideback.png);
+	
+}
+	
+div.Footer
+{
+	float:left;
+	height:15px;
+	width:100%;
+}
+
+.Table
+{
+
+/*margin-bottom:0px;
+margin-left:33px;*/
+margin-top:20px;
+background-color:#B8BFD8;
+padding:25px;
+height:auto;
+position:center center;
+-moz-border-radius: 20px 20px 20px 20px;
+-webkit-border-radius: 20px 20px 20px 20px;
+border-radius: 20px 20px 20px 20px;
+border-radius: 20px 20px 20px 20px;
+  -moz-box-shadow: 5px 5px 15px 5px #F60; /* Firefox */
+  -webkit-box-shadow: 5px 5px 15px 5px #F60; /* Safari, Chrome */
+/*opacity:1;*/
+}
+
+.Topcarve
+{
+
+/*margin-bottom:0px;
+margin-left:33px;*/
+-moz-border-radius: 20px 20px 0px 0px;
+-webkit-border-radius: 20px 20px 0px 0px;
+border-radius: 20px 20px 0px 0px;
+border-radius: 20px 20px 0px 0px;
+  
+}
+
+.Bottomcarve
+{
+
+-moz-border-radius: 0px 0px 20px 20px;
+-webkit-border-radius: 0px 0px 20px 20px;
+border-radius: 0px 0px 20px 20px;
+border-radius: 0px 0px 20px 20px;
+}
+
+.mehedi {
+	color: #F00;
+}

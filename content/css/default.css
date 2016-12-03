@@ -1,0 +1,99 @@
+*/*Set's border, padding and margin to 0 for all values*/
+{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.h1 {
+    font-weight:200;
+    color: #888888;
+    font-size:18px;
+    background: transparent url(../img/h1.png) no-repeat center left;
+    padding-left:33px;
+    padding:5px 0 5px 32px;
+}
+.h2 {
+    font-weight:200;
+    color: #888888;
+    font-size:18px;
+    background: url(../img/h2.jpg) no-repeat center left;
+    padding:5px 0 5px 24px;
+	float:left;
+	margin:0 0 0 10px;
+	width:90%;
+}
+form.login{
+	float:left;
+	display:block;
+    width:300px;
+	height:250px;
+    margin: 0;
+    padding:5px;
+	background:#fff;
+}
+form.login fieldset.row5
+{
+    border-top:1px dotted #adaeae;
+    border-right:1px dotted #adaeae;
+    padding:3px;
+    float:left;
+    clear:both;
+    width:270px;
+	margin:0 0 0 5px;
+}
+
+form.login legend
+{
+	background:#fff;
+    color: #000;
+    padding:2px;
+    margin-left: 14px;
+    font-weight:bold;
+    font-size: 14px;
+    font-weight:100;
+}
+
+form.login label{
+    color:#444;
+    width:98px;
+    float: left;
+    text-align: left;
+    margin-right: 6px;
+    margin-top:2px;
+}
+
+form.login input
+{
+    width: 250px;
+	padding:6px 0 6px 2px;
+    color: #505050;
+    float: left;
+    margin:0 0 5px 0;
+}
+
+form.login input[type=text]
+{
+    border: 1px dotted #E1E1E1;
+    height: 18px;
+}
+
+form.login input[type=password]
+{
+    border: 1px dotted #E1E1E1;
+    height: 18px;
+}
+.button
+{
+    background:url(../img/button.png) center no-repeat;
+    padding: 13px 0 13px 0;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+    cursor: pointer;
+    float:right;
+    font-size:16px;
+    margin:20px 10px 0 0;
+	width:115px;
+	text-align:center;
+}
+a.button{color:white}
